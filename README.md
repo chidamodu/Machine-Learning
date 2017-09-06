@@ -1,1 +1,1 @@
-# Machine-Learning
+My take on the World Happiness Report project from Kaggle. Goal is to recognize which of the (six predictor variables) predictor variables emerges the most significant influencing the dependent variable, i.e., the happiness score.
